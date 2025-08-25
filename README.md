@@ -81,7 +81,7 @@ Each point represents a sports facility identified in OSM, with a tooltip showin
 
 ### 2.2 Distribution of Sports and Football’s Predominance
 
-In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From [`sports_facilities.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_facilities.csv), exploding multi-sport entries produced [`sport_counts.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_count.csv)), containing the number of facilities per discipline.  
+In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From [`sports_facilities.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_facilities.csv), exploding multi-sport entries produced [`sport_counts.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_counts.csv)), containing the number of facilities per discipline.  
 
 | OSM tag       | Interpreted sport           | Number of sites |
 |---------------|-----------------------------|-----------------|
