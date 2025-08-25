@@ -67,7 +67,7 @@ The use of OSM data is not limited to simple counts. One of the strengths of thi
 
 ### 2.1 An Interactive and Zoomable Map of Sports Facilities
 
-The interactive map was generated from the filtered CSV file, converted into a geographic object with GeoPandas, and displayed using the **Folium** library, which exports a dynamic HTML map.  
+The [interactive map](https://benoit-prieur.fr/sports_map.htmlsports_map.html) was generated from the filtered CSV file, converted into a geographic object with GeoPandas, and displayed using the **Folium** library, which exports a dynamic HTML map.  
 
 Each point represents a sports facility identified in OSM, with a tooltip showing the sport(s) played. The map can be zoomed to the local scale, enabling exploration of large sporting agglomerations (Lagos, Johannesburg, Nairobi, Accra…) as well as rural or isolated areas. A first visual reading already shows:  
 
