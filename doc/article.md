@@ -77,7 +77,7 @@ Each point represents a sports facility identified in OSM, with a tooltip showin
 
 ### 2.2 Distribution of Sports and Football’s Predominance
 
-In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From `sports_facilities.csv`, exploding multi-sport entries produced `sport_counts.csv`, containing the number of facilities per discipline.  
+In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From (`sports_facilities.csv`)[csv/sports_facilities.csv], exploding multi-sport entries produced (`sport_counts.csv`)[csv/sports_count.csv], containing the number of facilities per discipline.  
 
 | OSM tag       | Interpreted sport           | Number of sites |
 |---------------|-----------------------------|-----------------|
