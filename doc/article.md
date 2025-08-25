@@ -46,7 +46,7 @@ However, this richness comes with limitations: uneven coverage depending on the 
 
 ### 1.2 Building the Dataset and Processing Sports Information
 
-Given the absence of centralized data on African sports facilities, we carried out a **systematic extraction** from OSM data available in `.pbf` format on the [Geofabrik portal](http://download.geofabrik.de), updated on **[20 March 2025](download.geofabrik.de/africa.html)**.  
+Given the absence of centralized data on African sports facilities, we carried out a **systematic extraction** from OSM data available in `.pbf` format on the [Geofabrik portal](http://download.geofabrik.de/africa.html), updated on **20 March 2025**.  
 
 Processing took place in several steps (see code in Appendix):  
 
