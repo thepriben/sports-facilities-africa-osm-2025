@@ -120,11 +120,13 @@ The cartographic and statistical analysis of sports facilities from OSM allows u
 
 ### 3.1 The Singular Case of Netball: A Minor Sport with Major Rank
 
-Netball ranks fifth in the recorded sports list (3,377 sites), ahead of globally prominent disciplines like volleyball, cricket, or rugby. This may be surprising, since the sport is relatively unknown outside a few contexts. Originating from a British educational adaptation of basketball, netball is especially practiced in **Commonwealth anglophone countries**, particularly among women, in school and community contexts.  
+Netball ranks fifth in the recorded sports list (3,377 sites), ahead of globally prominent disciplines like volleyball, cricket, or rugby. This may be surprising, since the sport is relatively unknown outside a few contexts. Originating from a British educational adaptation of basketball, netball is especially practiced in **Commonwealth anglophone countries**, particularly among women, in school and community contexts, (interactive map, netball)[https://benoit-prieur.fr/netball_map.html].  
 
 The spatial analysis shows a strong concentration in **East and Southern Africa**—Kenya, South Africa, Malawi, Zimbabwe—precisely the areas where the British colonial legacy integrated the sport into education policies. In contrast, francophone and lusophone countries record almost no netball facilities.  
 
 This case shows how some sports, although absent from mainstream media or international competitions, can occupy a **structuring territorial role**, acting as powerful identity markers at local or regional levels.  
+
+<img src="[img/africa_sports_map.png](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/img/netball_maps.png)" alt="Map of Africa" width="400"/>
 
 ### 3.2 British Sports and Commonwealth Territories: The Weight of the Past
 
