@@ -73,7 +73,11 @@ Each point represents a sports facility identified in OSM, with a tooltip showin
 
 - A strong concentration of facilities around **national capitals** and **regional metropolises**.  
 - Marked disparities between **coastal regions** and **Sahelian or landlocked** areas.  
-- Isolated points in poorly covered territories, revealing unequal OSM contributions.  
+- Isolated points in poorly covered territories, revealing unequal OSM contributions.
+
+<img src="https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/img/soccer_zoom_map.png" width="400"/>
+<br />
+<img src="https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/img/africa_facilities_map.png" width="400"/>
 
 ### 2.2 Distribution of Sports and Football’s Predominance
 
