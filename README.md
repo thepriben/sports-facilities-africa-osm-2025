@@ -55,7 +55,7 @@ Processing took place in several steps (see code in Appendix):
 - **Selection** of relevant entities, with extraction of geometries (coordinates) and recorded sport types.  
 - **Cleaning**: removal of duplicates, filtering of entries without specified sport, and normalization of sport names.  
 
-Particular attention was given to **multiple sports declared** for the same facility, common in OSM (e.g. `football;basketball`). To avoid counting bias, a decomposition step split these into one record per sport. This produced a structured CSV file [`sports_facilities.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_facilities.csv), containing more than **113,000** sites across the continent.  
+Particular attention was given to **multiple sports declared** for the same facility, common in OSM (e.g. `football;basketball`). To avoid counting bias, a decomposition step split these into one record per sport. This produced a structured CSV file [`sports_facilities.csv`](https://raw.githubusercontent.com/Medialoco/sports_facilities_africa_osm_2025/refs/heads/main/csv/sports_facilities.csv), containing more than **113,000** sites across the continent.  
 
 This reproducible and automatable process allows for regular updates of the analysis and observation of changes in African sports infrastructures over time. It also opens the way to comparative readings between territories, to the identification of emerging dynamics, and to highlighting possible symbolic hierarchies of disciplines depending on geographic distribution. Comparisons with the past are also possible using archived OSM dumps (e.g., 2020, 2015).  
 
@@ -81,7 +81,7 @@ Each point represents a sports facility identified in OSM, with a tooltip showin
 
 ### 2.2 Distribution of Sports and Football’s Predominance
 
-In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From [`sports_facilities.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_facilities.csv), exploding multi-sport entries produced [`sport_counts.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sport_counts.csv)), containing the number of facilities per discipline.  
+In parallel with this geographic reading, a statistical analysis of the frequency of reported sports was conducted. From [`sports_facilities.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sports_facilities.csv), exploding multi-sport entries produced [`sport_counts.csv`](https://github.com/Medialoco/sports_facilities_africa_osm_2025/blob/main/csv/sport_counts.csv), containing the number of facilities per discipline.  
 
 | OSM tag       | Interpreted sport           | Number of sites |
 |---------------|-----------------------------|-----------------|
