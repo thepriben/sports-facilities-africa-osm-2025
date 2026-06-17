@@ -179,6 +179,31 @@ a { color: inherit; }
 .legend { display: flex; flex-wrap: wrap; gap: 18px; margin-bottom: 22px; color: var(--muted); font-size: .92rem; }
 .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 7px; vertical-align: middle; }
 
+/* ---------- ENCART ---------- */
+.encart {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 26px;
+}
+.encart__media { margin: 0; flex: 0 0 200px; }
+.encart__media img { width: 100%; height: auto; border-radius: 12px; display: block; }
+.encart__media figcaption { font-size: .72rem; color: var(--muted); margin-top: 8px; line-height: 1.45; }
+.encart__media a { color: var(--accent-2); }
+.encart__body { flex: 1; }
+.encart__body h3 { margin: 0 0 10px; font-family: "Space Grotesk"; font-size: 1.15rem; }
+.encart__body p { color: var(--ink); line-height: 1.65; margin: 0 0 10px; }
+.encart__source { font-size: .82rem; color: var(--muted); }
+.encart__source a { color: var(--accent-2); }
+@media (max-width: 640px) {
+  .encart { flex-direction: column; }
+  .encart__media { flex-basis: auto; align-self: center; max-width: 240px; }
+}
+
 /* ---------- STEPS ---------- */
 .steps { list-style: none; counter-reset: s; padding: 0; margin: 0; display: grid; gap: 14px; }
 .steps li { display: flex; gap: 16px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 20px; }
