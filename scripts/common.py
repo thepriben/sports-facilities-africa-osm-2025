@@ -17,7 +17,7 @@ DOCS_DIR = ROOT / "docs"
 FACILITIES_CSV = DATA_DIR / "sports_facilities.csv"
 
 # Date de l'extrait Geofabrik utilisé pour figer l'étude.
-SNAPSHOT_DATE = "2025-03-20"
+SNAPSHOT_DATE = "2026-06-15"
 
 # Séparateur officiel des valeurs multiples du tag sport dans OSM.
 SPORT_SEPARATOR = ";"

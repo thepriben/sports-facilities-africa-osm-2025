@@ -1,133 +1,133 @@
 {
-  "snapshot_date": "2025-03-20",
-  "total_sites": 113685,
-  "total_records": 116237,
-  "distinct_sports": 183,
+  "snapshot_date": "2026-06-15",
+  "total_sites": 123936,
+  "total_records": 126928,
+  "distinct_sports": 195,
   "top": [
     {
       "tag": "soccer",
       "label": "Football",
-      "count": 55532
+      "count": 60794
     },
     {
       "tag": "tennis",
       "label": "Tennis",
-      "count": 24236
+      "count": 26107
     },
     {
       "tag": "basketball",
       "label": "Basketball",
-      "count": 9999
+      "count": 10774
     },
     {
       "tag": "multi",
       "label": "Multi-sport",
-      "count": 7012
+      "count": 7557
     },
     {
       "tag": "netball",
       "label": "Netball",
-      "count": 3405
+      "count": 3821
     },
     {
       "tag": "golf",
       "label": "Golf",
-      "count": 1869
+      "count": 1835
     },
     {
       "tag": "volleyball",
       "label": "Volley-ball",
-      "count": 1650
+      "count": 1786
     },
     {
       "tag": "cricket",
       "label": "Cricket",
-      "count": 1407
+      "count": 1484
     },
     {
       "tag": "handball",
       "label": "Handball",
-      "count": 1178
+      "count": 1290
     },
     {
       "tag": "bowls",
       "label": "Boulingrin (bowls)",
-      "count": 1147
+      "count": 1238
     },
     {
       "tag": "football",
       "label": "Football (ambigu)",
-      "count": 864
+      "count": 885
     },
     {
       "tag": "field_hockey",
       "label": "Hockey sur gazon",
-      "count": 772
+      "count": 849
     },
     {
       "tag": "rugby_union",
       "label": "Rugby à XV",
-      "count": 727
-    },
-    {
-      "tag": "athletics",
-      "label": "Athlétisme",
-      "count": 690
+      "count": 827
     },
     {
       "tag": "equestrian",
       "label": "Équitation",
-      "count": 655
+      "count": 809
     },
     {
-      "tag": "boules",
-      "label": "Boules / Pétanque",
-      "count": 446
-    },
-    {
-      "tag": "rugby",
-      "label": "Rugby (non spécifié)",
-      "count": 388
-    },
-    {
-      "tag": "beachvolleyball",
-      "label": "Beach-volley",
-      "count": 381
-    },
-    {
-      "tag": "baseball",
-      "label": "Baseball",
-      "count": 376
-    },
-    {
-      "tag": "shooting",
-      "label": "Tir sportif",
-      "count": 348
+      "tag": "athletics",
+      "label": "Athlétisme",
+      "count": 757
     },
     {
       "tag": "padel",
       "label": "Padel",
-      "count": 327
+      "count": 552
     },
     {
-      "tag": "running",
-      "label": "Course à pied",
-      "count": 297
+      "tag": "boules",
+      "label": "Boules / Pétanque",
+      "count": 486
     },
     {
-      "tag": "skateboard",
-      "label": "Skateboard",
-      "count": 282
+      "tag": "shooting",
+      "label": "Tir sportif",
+      "count": 465
+    },
+    {
+      "tag": "rugby",
+      "label": "Rugby (non spécifié)",
+      "count": 462
+    },
+    {
+      "tag": "beachvolleyball",
+      "label": "Beach-volley",
+      "count": 423
+    },
+    {
+      "tag": "baseball",
+      "label": "Baseball",
+      "count": 356
     },
     {
       "tag": "futsal",
       "label": "Futsal",
-      "count": 248
+      "count": 345
+    },
+    {
+      "tag": "skateboard",
+      "label": "Skateboard",
+      "count": 325
+    },
+    {
+      "tag": "running",
+      "label": "Course à pied",
+      "count": 320
     },
     {
       "tag": "cricket_nets",
       "label": "cricket_nets",
-      "count": 223
+      "count": 247
     }
   ]
 }
