@@ -12,6 +12,8 @@ filtered_data.osm
 
 # Article (brouillon conservé en local, non publié dans le dépôt)
 preprint/article_fr.txt
+# .docx régénérable via Pandoc, non versionné
+preprint/*.docx
 
 # OS
 .DS_Store

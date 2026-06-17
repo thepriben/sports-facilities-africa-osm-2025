@@ -9,7 +9,7 @@ There is none for African sports infrastructure, so this repo builds one from OS
 (imperfect, non-representative, but open and *re-runnable*) and publishes the analysis
 as a static site.
 
-- 🌍 **Site:** https://thepriben.github.io/sports-facilities-africa-osm-2026/
+- 🌍 **Site:** https://thepriben.github.io/sports-facilities-africa-osm-2025/
 - 🗓️ **Data snapshot:** Geofabrik *Africa* extract; see `SNAPSHOT_DATE` in `scripts/common.py`
 
 <!-- DATASET_STATS -->
