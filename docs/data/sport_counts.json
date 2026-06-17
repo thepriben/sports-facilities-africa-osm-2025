@@ -2,12 +2,12 @@
   "snapshot_date": "2026-06-15",
   "total_sites": 123936,
   "total_records": 126928,
-  "distinct_sports": 195,
+  "distinct_sports": 194,
   "top": [
     {
       "tag": "soccer",
       "label": "Football",
-      "count": 60794
+      "count": 61679
     },
     {
       "tag": "tennis",
@@ -53,11 +53,6 @@
       "tag": "bowls",
       "label": "Boulingrin (bowls)",
       "count": 1238
-    },
-    {
-      "tag": "football",
-      "label": "Football",
-      "count": 885
     },
     {
       "tag": "field_hockey",
@@ -128,6 +123,11 @@
       "tag": "cricket_nets",
       "label": "cricket_nets",
       "count": 247
+    },
+    {
+      "tag": "climbing",
+      "label": "climbing",
+      "count": 165
     }
   ]
 }
