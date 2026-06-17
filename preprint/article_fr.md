@@ -1,6 +1,6 @@
 # Construire les données manquantes à l'échelle continentale : une méthode reproductible à partir d'OpenStreetMap
 
-## *Étude de cas : les équipements sportifs en Afrique via OpenStreetMap (2026)*
+## *Étude de cas : les équipements sportifs du continent africain (2026)*
 
 [Dépôt GitHub](https://github.com/thepriben/sports-facilities-africa-osm-2026) · [Site web](https://thepriben.github.io/sports-facilities-africa-osm-2026/)
 
@@ -138,7 +138,7 @@ Appliqué à ce cas, le protocole a confirmé le triple intérêt annoncé. Il a
 
 Ces résultats valent dans les limites mêmes de la source, et les nommer fait partie de la méthode. La donnée OSM n'est ni exhaustive ni représentative ; la carte de densité superpose deux signaux difficilement séparables, la présence réelle d'équipements et l'intensité de la contribution bénévole. C'est précisément pourquoi le fichier brut est conservé intact et chaque opération de nettoyage rendue rejouable : la robustesse ne tient pas à l'exactitude du dénombrement, mais à la traçabilité et à la reproductibilité du procédé.
 
-Au-delà du sport, c'est cette propriété qui mérite d'être retenue. La chaîne décrite ne dépend pas de l'objet recensé : elle peut s'appliquer à tout domaine d'intérêt public privé de recensement continental ouvert, et sa valeur croît avec le temps. Relancée sur les extraits successifs de Geofabrik ou sur les archives d'OpenStreetMap, elle donne accès à la densification de la contribution, à l'émergence de nouvelles disciplines comme le padel ou le pickleball, et à la dynamique d'équipement des régions. L'instantané de 2026 n'est ainsi qu'un point d'entrée : la donnée citoyenne, traitée avec méthode et lue avec prudence, peut alors fonctionner comme un observatoire reproductible à l'échelle d'un continent.
+Au-delà du sport, c'est cette propriété qui mérite d'être retenue. La chaîne décrite ne dépend pas de l'objet recensé : elle peut s'appliquer à tout domaine d'intérêt public dépourvu de recensement continental ouvert, et sa valeur croît avec le temps. Relancée sur les extraits successifs de Geofabrik ou sur les archives d'OpenStreetMap, elle donne accès à la densification de la contribution, à l'émergence de nouvelles disciplines comme le padel ou le pickleball, et à la dynamique d'équipement des régions. L'instantané de 2026 n'est ainsi qu'un point d'entrée : la donnée citoyenne, traitée avec méthode et lue avec prudence, peut alors fonctionner comme un observatoire reproductible à l'échelle d'un continent.
 
 # **Annexe méthodologique** 
 

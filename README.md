@@ -1,8 +1,14 @@
 # sports-facilities-africa-osm
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20738614.svg)](https://doi.org/10.5281/zenodo.20738614)
+
 Technical repository for an open, reproducible pipeline that turns OpenStreetMap
 into a dataset of **sports facilities across the African continent**, then maps and
 analyzes it.
+
+> 📄 **Preprint:** *Construire les données manquantes à l'échelle continentale : une
+> méthode reproductible à partir d'OpenStreetMap* — Benoît Prieur (2026), Zenodo.
+> [https://doi.org/10.5281/zenodo.20738614](https://doi.org/10.5281/zenodo.20738614)
 
 At continental scale, few domains have an open, homogeneous and comparable dataset.
 There is none for African sports infrastructure, so this repo builds one from OSM
@@ -10,6 +16,7 @@ There is none for African sports infrastructure, so this repo builds one from OS
 as a static site.
 
 - 🌍 **Site:** https://thepriben.github.io/sports-facilities-africa-osm-2026/
+- 📄 **Preprint:** https://doi.org/10.5281/zenodo.20738614
 - 🗓️ **Data snapshot:** Geofabrik *Africa* extract; see `SNAPSHOT_DATE` in `scripts/common.py`
 
 <!-- DATASET_STATS -->
@@ -58,7 +65,7 @@ and deletes the `.pbf` afterwards (use `--keep-pbf` to keep it).
 │   ├── data/sport_counts.json
 │   ├── maps/*.html
 │   └── .nojekyll
-├── preprint/                   # French article draft (kept local, not published here)
+├── preprint/                   # French article (source .md + figures); published on Zenodo (DOI above)
 ├── images/                     # static figures
 ├── requirements.txt
 └── LICENSE
