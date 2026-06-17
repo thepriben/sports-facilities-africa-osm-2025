@@ -196,9 +196,9 @@ a { color: inherit; }
   padding: 20px;
   margin-bottom: 26px;
 }
-.encart__media { margin: 0; flex: 0 0 200px; }
-.encart__media img { width: 100%; height: auto; border-radius: 12px; display: block; }
-.encart__media figcaption { font-size: .72rem; color: var(--muted); margin-top: 8px; line-height: 1.45; }
+.encart__media { margin: 0; flex: 0 0 200px; text-align: center; }
+.encart__media img { width: 100%; height: auto; border-radius: 12px; display: block; margin: 0 auto; }
+.encart__media figcaption { font-size: .72rem; color: var(--muted); margin-top: 8px; line-height: 1.45; text-align: center; }
 .encart__media a { color: var(--accent-2); }
 .encart__body { flex: 1; }
 .encart__body h3 { margin: 0 0 10px; font-family: "Space Grotesk"; font-size: 1.15rem; }
